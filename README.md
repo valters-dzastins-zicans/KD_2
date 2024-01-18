@@ -1,4 +1,10 @@
 # SS.com Tehniskās apskates meklētājs ar Selenium
+
+# Video ar skripta palaišanu
+https://youtu.be/h6C2nKghh50
+
+
+
 ## Programmas uzdevums
 Programma atver ss.com automašīnas meklēšanas lapu un dod iespēju lietotājam perosnalizēt savu meklēšanu un programma piedāvā lietotājam ievadīt tehniskās apskates termiņu (ss.com tādas opcijas nav). Pēc Teh. apsk termiņa ievadīšanas, programma iziet cauri katram sludinājumam un pārbauda vai termiņš atbilst lietotāja vēlamajam. Kad tiek iziets cauri visiem sluidinājumiem, visi atbilstošie sludinājumi tiek saglabāti excel failā, kas ir pievienots šajā repository. Programma dod iespēju šo excel dokumentu saglabāt.
 
