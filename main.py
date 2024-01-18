@@ -90,7 +90,7 @@ while True:
                 if datums.year == 2023:
                     difference = 0
                 elif datums.year > 2024:
-                    diffrence = 999
+                    difference = 999
                     
                 else:
                     difference = datums.month - today.month
